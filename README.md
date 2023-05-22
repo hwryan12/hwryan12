@@ -8,9 +8,11 @@ Please feel free top contact me either through email or Linkedin below: <br>
 <hr>
 <p align="center">
 <!-- Github stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=hwryan12&show_icons=true&theme=default" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=hwryan12&show_icons=true&theme=onedark" alt="GitHub Stats" />
 <!-- Most used languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwryan12&theme=default&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwryan12&theme=onedark&layout=compact" alt="Top Languages" />
+<img width="490" height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hwryan12&theme=onedark">
+<img width="490" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hwryan12&theme=onedark">
 </p>
 <hr>
 <p align="center">
