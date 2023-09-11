@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Harrison and welcome to my page! I'm a former Alaskan boat captain turned software developer.</h3>
+<h3 align="center">Hi, I'm Harrison and welcome to my page.</h3>
 <br>
 <p align="center">
 Please feel free top contact me either through email or Linkedin below: <br>
