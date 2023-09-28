@@ -1,4 +1,5 @@
-<h3 align="center">Hi, I'm Harrison and welcome to my page.</h3>
+<h3 align="center">Hi, I'm Harrison.</h3>
+<h3 align="center">Welcome to my page.</h3>
 <br>
 <p align="center">
 Please feel free top contact me either through email or Linkedin below: <br>
