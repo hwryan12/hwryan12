@@ -1,5 +1,14 @@
-<p align="center" style="font-size: 24px; font-weight: bold;">Hi, I'm Harrison.</p>
-<p align="center" style="font-size: 24px; font-weight: bold;">Welcome to my page.</p>
+<div align="center"> 
+  
+**Hi, I'm Harrison.** 
+
+</div>
+<div align="center"> 
+
+**Welcome to my page.** 
+
+</div>
+
 <p align="center">
 Please feel free top contact me either through email or Linkedin below: <br>
 <a href="mailto:hwryan12@gmail.com?subject=Message%20From%20my%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
